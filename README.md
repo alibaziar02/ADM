@@ -1,10 +1,10 @@
 # ADM
 
 <h1>Requirements</h1>
--Python3.12
--requests
--BeautifulSoup
--tkinter
+-Python3.12 <br/>
+-requests <br/>
+-BeautifulSoup <br/>
+-tkinter <br/>
 <h1>Run Code Help</h1>
 <span>For Run Code Write in cmd or Terminal:</span>
 `python3.12 ADM.py`
