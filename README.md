@@ -8,4 +8,4 @@
 <li>tkinter</li>
 </ul>
 <h1>Preview</h1>
-!(C:\Users\AliAbass\Pictures\Screenshots\Screenshot 2024-09-17 100503.jpg)#
+<img src="C:\Users\AliAbass\Pictures\Screenshots\Screenshot 2024-09-17 100503.jpg"/>
